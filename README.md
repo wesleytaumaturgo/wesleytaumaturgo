@@ -1,10 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Wesley%20Taumaturgo&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Architecture&descSize=16&descAlignY=55&descColor=94a3b8"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0F3460&center=true&vCenter=true&random=false&width=600&lines=12%2B+years+building+enterprise+Java+systems;Microservices+%7C+DDD+%7C+Event-Driven+Architecture;Currently+at+Sem+Parar+%2F+Grupo+Corpay;AI+Software+Engineer+in+Progress+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Wesley Taumaturgo
+
+**`Senior Software Engineer | Backend & Architecture | Salvador, BA`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleytaumaturgo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesleytaumaturgo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleytaumaturgo@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=0F3460&center=true&vCenter=true&random=false&width=600&lines=12%2B+years+building+enterprise+Java+systems;Microservices+%7C+DDD+%7C+Event-Driven+Architecture;Currently+at+Sem+Parar+%2F+Grupo+Corpay;AI+Software+Engineer+in+Progress)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ## About me
 
@@ -15,7 +23,7 @@
 - 🎯 Focus: bridging high-scale distributed systems with AI-powered applications
 - 📍 Salvador, BA — Brazil
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f3460&height=2"/>
+---
 
 ## Tech stack
 
@@ -49,7 +57,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f3460&height=2"/>
+---
 
 ## Featured projects
 
@@ -62,30 +70,18 @@
 | [**CQRS Event Sourcing**](https://github.com/wesleytaumaturgo/cqrs-event-sourcing-ddd) | DDD + Event Store + CQRS read projections |
 | [**Executive Dashboard**](https://github.com/wesleytaumaturgo/executive-dashboard-fullstack) | Fullstack React + Spring Boot analytics |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f3460&height=2"/>
+---
 
 ## Education
 
 🎓 **MBA Software Architecture** — Full Cycle (2024–2026)
+
 `DDD` `Clean Architecture` `Hexagonal` `Kafka` `CQRS` `Event Sourcing` `System Design` `C4 Model` `Kubernetes` `SRE`
 
 📚 **MBA Software Engineering with AI** — Full Cycle (2026–2027)
+
 `LLMs` `AI Agents` `RAG` `Prompt Engineering` `MCP Servers` `LangChain` `DevOps with AI`
 
 🎓 **MBA Mobile Development** — IGTI (2017–2019)
 
 🎓 **B.Sc. Information Systems** — Universidade Salvador (2013–2017)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f3460&height=2"/>
-
-## Contact me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleytaumaturgo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesleytaumaturgo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleytaumaturgo@gmail.com)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
