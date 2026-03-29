@@ -53,4 +53,3 @@ LangChain · DevOps with AI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Taumaturgo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wesleytaumaturgo)
 [![GitHub](https://img.shields.io/badge/GitHub-wesleytaumaturgo-181717?style=flat&logo=github)](https://github.com/wesleytaumaturgo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytaumaturgo&layout=compact&theme=default&hide_border=true)
