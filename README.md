@@ -74,13 +74,13 @@
 
 ## Education
 
-🎓 **MBA Software Architecture** — Full Cycle (2024–2026)
-
-`DDD` `Clean Architecture` `Hexagonal` `Kafka` `CQRS` `Event Sourcing` `System Design` `C4 Model` `Kubernetes` `SRE`
-
 📚 **MBA Software Engineering with AI** — Full Cycle (2026–2027)
 
 `LLMs` `AI Agents` `RAG` `Prompt Engineering` `MCP Servers` `LangChain` `DevOps with AI`
+
+🎓 **MBA Software Architecture** — Full Cycle (2024–2026)
+
+`DDD` `Clean Architecture` `Hexagonal` `Kafka` `CQRS` `Event Sourcing` `System Design` `C4 Model` `Kubernetes` `SRE`
 
 🎓 **MBA Mobile Development** — IGTI (2017–2019)
 
