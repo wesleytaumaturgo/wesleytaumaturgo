@@ -63,12 +63,9 @@
 
 | Project | What it demonstrates |
 |---------|---------------------|
-| [**Hexagonal Architecture**](https://github.com/wesleytaumaturgo/spring-boot-hexagonal-clean-architecture) | Clean Architecture with ArchUnit boundary enforcement |
-| [**Digital Wallet**](https://github.com/wesleytaumaturgo/digital-wallet-saga-pattern) | Saga Pattern for P2P transfers in fintech domain |
-| [**DevCLI**](https://github.com/wesleytaumaturgo/dev-cli-python-ai-toolkit) | Python CLI toolkit with AI-powered dev tools |
-| [**RAG Financial**](https://github.com/wesleytaumaturgo/rag-financial-advisor) | RAG pipeline with LangChain for financial analysis |
-| [**CQRS Event Sourcing**](https://github.com/wesleytaumaturgo/cqrs-event-sourcing-ddd) | DDD + Event Store + CQRS read projections |
-| [**Executive Dashboard**](https://github.com/wesleytaumaturgo/executive-dashboard-fullstack) | Fullstack React + Spring Boot analytics |
+| [Batch Performance](https://github.com/wesleytaumaturgo/spring-batch-performance-optimization) | 7 optimization strategies, up to 22.5x speedup |
+| [Hexagonal Architecture](https://github.com/wesleytaumaturgo/spring-boot-hexagonal-clean-architecture) | Clean Architecture with ArchUnit boundary enforcement |
+| [CQRS Event Sourcing](https://github.com/wesleytaumaturgo/cqrs-event-sourcing-benchmark) | Manual ES vs Axon Framework benchmark with metrics |
 
 ---
 
